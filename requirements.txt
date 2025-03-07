@@ -1,9 +1,3 @@
-<<<<<<< HEAD
 streamlit==1.30.0
 pandas==2.0.3
 uuid==1.30
-=======
-streamlit==1.30.0
-pandas
-uuid==1.30
->>>>>>> 2e885ada6988877f27eab50d6f88cc9d49ea023e
